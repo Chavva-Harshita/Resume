@@ -11,7 +11,7 @@ This repository contains the HTML + CSS version of my professional resume, creat
 ## 🌐 View Online (Optional)
 
 You can view the resume online by enabling GitHub Pages for this repo:  
-``
+`https://chavva-harshita.github.io/Resume/`
 
 ## 🧠 Why I Made This
 
